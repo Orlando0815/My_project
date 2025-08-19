@@ -6,7 +6,7 @@ import plotly.express as px
 
 
 #Cargar datos
-df = pd.read_csv('My_project/vehicles_us.csv')
+df = pd.read_csv('vehicles_us.csv')
 
 st.header('Relación de automoviles', divider = 'gray')
 
